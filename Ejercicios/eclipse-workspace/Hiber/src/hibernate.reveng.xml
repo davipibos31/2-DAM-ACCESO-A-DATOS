@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.org/dtd/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+
+	<table catalog="proyecto_orm" name="departamento">
+		<column name="id_depto"></column>
+		<column name="nom_depto"></column>
+		<column name="id_sede"></column>
+	</table>
+	<table catalog="proyecto_orm" name="empleado">
+		<column name="dni"></column>
+		<column name="id_depto"></column>
+		<column name="nom_emp"></column>
+	</table>
+	<table catalog="proyecto_orm" name="empleado_datos_prof">
+		<column name="dni"></column>
+		<column name="sueldo_bruto_anual"></column>
+		<column name="categoria"></column>
+	</table>
+	<table catalog="proyecto_orm" name="proyecto">
+		<column name="id_proy"></column>
+		<column name="f_inicio"></column>
+		<column name="f_fin"></column>
+		<column name="nom_proy"></column>
+	</table>
+	<table catalog="proyecto_orm" name="proyecto_sede">
+		<column name="id_proy"></column>
+		<column name="id_sede"></column>
+		<column name="id_proy"></column>
+		<column name="id_sede"></column>
+		<column name="f_fin"></column>
+		<column name="f_inicio"></column>
+	</table>
+	<table catalog="proyecto_orm" name="sede">
+		<column name="id_sede"></column>
+		<column name="nom_sede"></column>
+	</table>
+</hibernate-reverse-engineering>

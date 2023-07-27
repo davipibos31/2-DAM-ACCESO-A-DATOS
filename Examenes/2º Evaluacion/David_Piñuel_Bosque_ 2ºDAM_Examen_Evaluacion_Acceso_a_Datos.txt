@@ -1,0 +1,90 @@
+pregunta 1. ¿Cuál de las siguientes NO es una característica de las BBDD de Objetos?
+
+b. Falta de modelo formal ampliamente aceptado.
+
+pregunta 2. ¿Cuál de las siguientes características es correcta en de las BBDD
+Objeto-Relacionales?
+
+d. Las respuestas anteriores son correctas
+
+pregunta 3. Una aplicación con Hibernate utiliza objetos:
+
+d. a y c son correctas.
+
+pregunta 4. Con HIBERNATE:
+
+d. Todas las respuestas anteriores son correctas.
+
+pregunta 5. ¿Cuál de las siguientes NO es una de las condiciones que impone Hibernate?
+
+b. La PK SI puede cambiar.
+
+pregunta 6. ¿Qué respuesta es la correcta con respecto a Hibernate?
+
+c. Se sitúa antes de la Aplicación.
+
+pregunta 7. ¿Son correctos los siguientes pasos para realizar una conexión con Hibernate y
+nuestro proyecto?
+
+b. NO
+
+pregunta 8. El archivo de configuración de Hibernate es un archivo:
+
+c. XML
+
+pregunta 9. El archivo de ingeniería inversa de Hibernate es un archivo:
+
+c. XML
+
+pregunta 10. En los ficheros hbm o de correspondencia.(Indicar la correcta)
+
+a. Los atributos deben ser declarados como privados.
+
+
+pregunta 11. La persistencia de objetos en bases de datos relacionales plantea un conjunto de
+problemas que se conocen en conjunto como :
+
+b. Desfase objeto relacional.
+
+
+pregunta 12. Traducción del significado de XML:
+
+a. Lenguaje de marcado extensible
+
+pregunta 13. Indica cuál de las siguientes afirmaciones es falsa.
+
+c. Uno de sus principios de diseño es que sea fácil de leer e interpretar por
+parte del humano, pero no de la máquina.
+
+pregunta 14. Un documento XML:
+
+d. Todas las anteriores son correctas.
+
+pregunta 15. Un elemento
+
+d. a y b son correctas.
+
+pregunta 16. La etiqueta DNI corresponde a:
+
+c. Un atributo del elemento cliente.
+
+pregunta 17. Observando el documento XML adjunto más arriba. ¿Cuantos niveles de
+anidamiento de elementos posee el documento?
+
+c. Tres
+
+pregunta 18. Tipos de nodos en un modelo DOM:
+
+d. a y c son correctas.
+
+pregunta 19. Indique la afirmación INCORRECTA.
+
+d. Los nodos texto no se pueden ignorar
+
+pregunta 20. Indique la afirmación incorrecta:
+
+b. El parseo (parsing) o deserialización obtiene una estructura totalmente
+secuencial a partir de un documento.
+
+
+

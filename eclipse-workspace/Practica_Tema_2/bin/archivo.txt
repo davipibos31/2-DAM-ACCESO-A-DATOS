@@ -1,0 +1,38 @@
+DNI:123 Nombre:123 apellido:123
+DNI:123 Nombre:123 apellido:123
+DNI:123 Nombre:123 apellido:123
+DNI:123 Nombre:123 apellido:123
+DNI:2 Nombre:a apellido:a
+*[Ljava.lang.String;@2ef5e5e3DNI:3 Nombre:a apellido:a
+DNI:3 Nombre:a apellido:a
+*DNI:DNI:3 Nombre:a apellido:a
+DNI:33 Nombre:a apellido:a
+*DNI:33 NOMBRE:Nombre:a apellido:a
+*DNI:33 NOMBRE:* apellido:a
+DNI:33 NOMBRE:3 apellido:a
+ºDNI:* NOMBRE:3 apellido:a
+*DNI:33 NOMBRE:d apellido:a
+*DNI:33 NOMBRE:3apellido:a
+DNI:4 Nombre:a apellido:a
+*DNI:4Nombre:aapellido:a
+DNI:12 Nombre:a apellido:c
+DNI:11 Nombre:a apellido:c
+*DNI:11 Nombre:a apellido:cDNI:112 Nombre:a apellido:a
+DNI:112 Nombre:a apellido:a
+DNI:1122 Nombre:a apellido:a
+DNI:112233 Nombre:a apellido:a
+DNI:111222 Nombre:a apellido:a
+DNI:111222333 Nombre:111222333 apellido:111222333
+*DNI:111222333 Nombre:111222333 apellido:111222333DNI:1212 Nombre:a apellido:a
+DNI:12122 Nombre:a apellido:a
+*DNI:12122 Nombre:a apellido:a*DNI:12122 Nombre:a apellido:a*DNI:12122 Nombre:a apellido:a
+DNI:3322 Nombre:a apellido:a
+*DNI:3322 Nombre:a apellido:a
+DNI:332211 Nombre:a apellido:a
+*DNI:332211 Nombre:a apellido:a
+DNI:33 Nombre:22 apellido:a
+*DNI:33 Nombre:22 apellido:a
+DNI:123 Nombre:123 apellido:123DNI:74531686W Nombre:Guillermo  apellido:Bosque
+DNI:b Nombre:c apellido:m
+DNI:123 Nombre:a apellido:a
+DNI:74531686 Nombre:Guillermo apellido:Bosque

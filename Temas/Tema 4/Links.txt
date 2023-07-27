@@ -1,0 +1,7 @@
+Link de descarga Hibernate
+
+http://download.jboss.org/jbosstools/updates/stable/mars
+
+Link de donde lo he sacado 
+
+http://www.programandoapasitos.com/2016/01/instalacion-y-configuracion-de.html

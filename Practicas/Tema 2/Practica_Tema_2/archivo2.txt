@@ -1,0 +1,4 @@
+*DNI:12122 Nombre:a apellido:a
+*DNI:3322 Nombre:a apellido:a
+*DNI:332211 Nombre:a apellido:a
+*DNI:33 Nombre:22 apellido:a
